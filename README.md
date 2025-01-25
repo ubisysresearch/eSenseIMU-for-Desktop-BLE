@@ -11,6 +11,8 @@ Install Dependencies: Make sure you have the following Python libraries installe
  - nest_asyncio
  - pandas
  - matplotlib
+
+
 **YOU CAN DIRECTLY RUN THE requirement.txt FILE.**
 
 
